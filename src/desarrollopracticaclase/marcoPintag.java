@@ -10,5 +10,5 @@ package desarrollopracticaclase;
  * @author MARCOS
  */
 public class marcoPintag {
-    
+     //COMENTARIO JOHANNA
 }
