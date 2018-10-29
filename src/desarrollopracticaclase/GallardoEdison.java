@@ -10,5 +10,5 @@ package desarrollopracticaclase;
  * @author COMPU
  */
 public class GallardoEdison {
-    
+    //COMENTARIO JOHANNA
 }
